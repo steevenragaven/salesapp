@@ -1,0 +1,53 @@
+[
+    {
+        "id":"1",
+        "name":"Mahebourg Store",
+        "location":"Mahebourg",
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrssxsriwLKYM6d5IALZC-I2duSKk6YbzEkQ&usqp=CAU",
+        "phoneNumber":"6311585",
+        "storemanager":"steeven", 
+        "managerid":"steeven1234",
+        "managerpass":"12345",
+        "totalsales":50000,
+        "lat":-20.408140 ,
+        "lng":57.706059
+},
+{
+    "id":"2",
+    "name":"Port-louis",
+    "location":"Port-louis",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrssxsriwLKYM6d5IALZC-I2duSKk6YbzEkQ&usqp=CAU",
+    "phoneNumber":"6311585",
+    "storemanager":"Trisha", 
+    "managerid":"Trisha1234",
+    "managerpass":"12345",
+    "totalsales":150000,
+    "lat":-20.157890 ,
+        "lng":57.505611
+},{
+    "id":"3",
+    "name":"Moka",
+    "location":"Moka",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrssxsriwLKYM6d5IALZC-I2duSKk6YbzEkQ&usqp=CAU",
+    "phoneNumber":"6311585",
+    "storemanager":"Jean", 
+    "managerid":"Jean1234",
+    "managerpass":"12345",
+    "totalsales":250000,
+    "lat":-20.253987,
+        "lng":57.580908
+},
+{
+    "id":"4",
+    "name":"Tribecca store",
+    "location":"Reduit",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrssxsriwLKYM6d5IALZC-I2duSKk6YbzEkQ&usqp=CAU",
+    "phoneNumber":"6311585",
+    "storemanager":"raj", 
+    "managerid":"raj1234",
+    "managerpass":"12345",
+    "totalsales":450000,
+    "lat":-20.232483 ,
+    "lng":57.498419
+}
+]

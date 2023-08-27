@@ -1,0 +1,36 @@
+[
+    {
+      "id": "1",
+      "username": "steeven",
+      "userId": "steeven1234",
+      "userPass": "12345",
+      "managesStoreId": "1", 
+      "isAdmin": false
+    },
+    {
+      "id": "2",
+      "username": "Trisha",
+      "userId": "Trisha1234",
+      "userPass": "12345",
+      "managesStoreId": "2", 
+      "isAdmin": false
+    },
+    {
+      "id": "3",
+      "username": "Jean",
+      "userId": "Jean1234",
+      "userPass": "12345",
+      "managesStoreId": "3", 
+      "isAdmin": false
+    },
+    {
+      "id": "4",
+      "username": "raj",
+      "userId": "raj1234",
+      "userPass": "12345",
+      "managesStoreId": "4",
+      "isAdmin": true
+    }
+  ]
+  
+  
